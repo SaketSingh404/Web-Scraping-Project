@@ -4,7 +4,7 @@ This repository contains a Python project that scrapes a book website containing
 
 ## 🔍 Project Overview
 
-- **Web Scraping:** Collected data from a book listing website where each book has its own dedicated page.
+- **Web Scraping:** Collected data from a book listing website https://books.toscrape.com/ where each book has its own dedicated page.
 - **Extracted Features:**
   - Book Name
   - Genre/Category
